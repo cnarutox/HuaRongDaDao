@@ -6,7 +6,7 @@ android {
         applicationId "com.chenwx.www.huarongdao"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 3
+        versionCode 4
         versionName "1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
