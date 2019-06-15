@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">华容大道</string>
+    <string name="steps">0</string>
+    <string name="title_activity_scrolling_level">选择关卡</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="game_name">华容大道</string>
+</resources>

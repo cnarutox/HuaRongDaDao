@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="level">
+        <item>@array/牛刀小试</item>
+        <item>@array/横刀立马Ⅰ</item>
+        <item>@array/横刀立马Ⅱ</item>
+        <item>@array/齐头并进</item>
+        <item>@array/兵分三路</item>
+        <item>@array/屯兵东路</item>
+        <item>@array/横竖皆将</item>
+    </array>
+    <array name="levelName">
+        <item>牛刀小试</item>
+        <item>横刀立马</item>
+    </array>
+    <array name="牛刀小试">
+        <item>0 0 2 张飞</item>
+        <item>1 0 3 关羽</item>
+        <item>3 0 2 赵云</item>
+        <item>1 1 1 卒一</item>
+        <item>2 1 1 卒二</item>
+        <item>0 2 2 马超</item>
+        <item>1 2 4 曹操</item>
+        <item>3 2 2 黄忠</item>
+        <item>0 4 1 卒三</item>
+        <item>3 4 1 卒四</item>
+    </array>
+    <array name="横刀立马Ⅰ">
+        <item>0 0 2 张飞</item>
+        <item>1 0 4 曹操</item>
+        <item>3 0 2 赵云</item>
+        <item>0 2 2 马超</item>
+        <item>1 2 3 关羽</item>
+        <item>3 2 2 黄忠</item>
+        <item>1 3 1 卒一</item>
+        <item>2 3 1 卒二</item>
+        <item>0 4 1 卒三</item>
+        <item>3 4 1 卒四</item>
+    </array>
+    <array name="横刀立马Ⅱ">
+        <item>0 0 2 张飞</item>
+        <item>1 0 4 曹操</item>
+        <item>3 0 2 赵云</item>
+        <item>0 2 1 卒三</item>
+        <item>1 2 3 关羽</item>
+        <item>3 2 1 卒四</item>
+        <item>0 3 2 马超</item>
+        <item>1 3 1 卒一</item>
+        <item>2 3 1 卒二</item>
+        <item>3 3 2 黄忠</item>
+    </array>
+    <array name="齐头并进">
+        <item>0 0 2 张飞</item>
+        <item>1 0 4 曹操</item>
+        <item>3 0 2 赵云</item>
+        <item>0 2 1 卒一</item>
+        <item>1 2 1 卒二</item>
+        <item>2 2 1 卒三</item>
+        <item>3 2 1 卒四</item>
+        <item>0 3 2 马超</item>
+        <item>1 3 3 关羽</item>
+        <item>3 3 2 黄忠</item>
+    </array>
+    <array name="兵分三路">
+        <item>0 0 1 卒一</item>
+        <item>1 0 4 曹操</item>
+        <item>3 0 1 卒二</item>
+        <item>0 1 2 张飞</item>
+        <item>3 1 2 赵云</item>
+        <item>1 2 3 关羽</item>
+        <item>0 3 2 马超</item>
+        <item>1 3 1 卒三</item>
+        <item>2 3 1 卒四</item>
+        <item>3 3 2 黄忠</item>
+    </array>
+    <array name="屯兵东路">
+        <item>0 0 4 曹操</item>
+        <item>2 0 2 张飞</item>
+        <item>3 0 2 赵云</item>
+        <item>0 2 3 关羽</item>
+        <item>2 2 1 卒一</item>
+        <item>3 2 1 卒二</item>
+        <item>0 3 2 马超</item>
+        <item>1 3 2 黄忠</item>
+        <item>2 3 1 卒三</item>
+        <item>3 3 1 卒四</item>
+    </array>
+    <array name="横竖皆将">
+        <item>0 0 2 张飞</item>
+        <item>1 0 4 曹操</item>
+        <item>3 0 2 赵云</item>
+        <item>0 2 2 马超</item>
+        <item>1 2 3 关羽</item>
+        <item>3 2 1 卒一</item>
+        <item>1 3 2 黄忠</item>
+        <item>3 3 1 卒二</item>
+        <item>0 4 1 卒三</item>
+        <item>3 4 1 卒四</item>
+    </array>
+</resources>
